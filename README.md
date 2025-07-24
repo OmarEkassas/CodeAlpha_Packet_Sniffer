@@ -26,5 +26,4 @@ Created by **OmarElkassas** — built for learning, exploring, and sharpening ne
 - Python 3.7 or higher
 - [Scapy](https://scapy.net/)
 
-Install dependencies using:
-  pip install scapy
+
